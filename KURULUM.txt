@@ -1,0 +1,9 @@
+DESTEK ÝÇÝN
+
+www.scriptcin.com
+
+SQL dosyaýsný veritabanýnýza aktarýn. ayar.php'deki gerekli yerleri düzenleyin.
+
+Admin Paneli için www.siteadresiniz.com/ayqo.php ye gidin.
+
+Ýlk kullanýcý adý ve þifre admin 123'tür.
